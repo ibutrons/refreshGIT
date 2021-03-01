@@ -2,3 +2,5 @@ Esta es mi historia
 Me llamo ivan Butron tengo 25 anos, estudio en alemania pero naci en Bolivia
 
 Estudio Wirtschaftsinformatik en la TH Wildau 
+
+Me gusta el desarrollo Web por lo grafico que es, pero mas me gusta projekt management, mapeo de procesos y Automatization y de paso quiero meterle mas a Data Science
