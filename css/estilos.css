@@ -1,9 +1,25 @@
 /* como hacer comentarios con cms +shift +7 */
-body
+
+ body
 {
-color: darkgreen;
-text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
-font-size: medium;
-  
- }
+    color: rgb(100, 53, 0);
+    
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
